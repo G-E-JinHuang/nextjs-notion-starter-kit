@@ -1,14 +1,14 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'c999281ffde84e8fbb58ba3fd252ea59?v=56809e28533140a7bd95496fdd03192d',
+  rootNotionPageId: 'Junsu-Collection-d0a89c165b554462921cd4c9182aeaa3',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Kim Junsu Magazines Collection',
-  domain: 'https://www.notion.so/angelpeach1215/c999281ffde84e8fbb58ba3fd252ea59?v=56809e28533140a7bd95496fdd03192d',
+  name: 'Junsu Collection',
+  domain: 'https://www.notion.so/angelpeach1215/Junsu-Collection-d0a89c165b554462921cd4c9182aeaa3',
   author: 'Plam Tree Island Dweller',
 
   // open graph metadata (optional)
