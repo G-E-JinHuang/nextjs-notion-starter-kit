@@ -1,15 +1,15 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'Junsu-Collection-d0a89c165b554462921cd4c9182aeaa3',
+  rootNotionPageId: 'Born-to-Eat-a5cea3916a4e46b893a6d0f03b2b9b24',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Junsu Collection',
-  domain: 'https://www.notion.so/angelpeach1215/Junsu-Collection-d0a89c165b554462921cd4c9182aeaa3',
-  author: 'Plam Tree Island Dweller',
+  name: 'Born to Eat 人生而为食',
+  domain: 'https://www.notion.so/angelpeach1215/Born-to-Eat-a5cea3916a4e46b893a6d0f03b2b9b24',
+  author: '不为人知的猪',
 
   // open graph metadata (optional)
   description: 'Example site description',
@@ -17,7 +17,7 @@ module.exports = {
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  twitter: '',
+  twitter: 'JINHUANG001',
   github: '',
   linkedin: '',
 
